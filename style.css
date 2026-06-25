@@ -1,1 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
 
+header {
+    background: #e63946;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+    padding: 20px;
+}
+
+.btn {
+    background: #1d3557;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+}
+
+.btn:hover {
+    background: #457b9d;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 14px;
+    color: #555;
+}
