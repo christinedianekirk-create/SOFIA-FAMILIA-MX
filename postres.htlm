@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Postres – SOFÍA FAMILIA MX</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+<header>
+    Postres
+</header>
+
+<div class="menu">
+    <p>Aquí encontrarás postres fáciles, económicos y deliciosos para consentir a tu familia.</p>
+
+    <a class="btn" href="index.html">⬅ Regresar al inicio</a>
+</div>
+
+<footer>
+    SOFÍA FAMILIA MX – Postres
+</footer>
+
+</body>
+</html>
